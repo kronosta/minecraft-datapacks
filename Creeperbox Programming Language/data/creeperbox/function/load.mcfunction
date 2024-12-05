@@ -1,0 +1,12 @@
+scoreboard objectives add Creeperbox.Running dummy
+scoreboard objectives add Creeperbox.Cooldown dummy
+scoreboard objectives add Creeperbox.Break dummy
+scoreboard objectives add Creeperbox.Cond dummy
+scoreboard objectives add Creeperbox.CoordX dummy
+scoreboard objectives add Creeperbox.CoordY dummy
+scoreboard objectives add Creeperbox.CoordZ dummy
+scoreboard objectives add Creeperbox.GoldOre dummy
+scoreboard objectives add Creeperbox.GoldBlock dummy
+scoreboard objectives add Creeperbox.BirchSlab dummy
+scoreboard objectives add Creeperbox.CmdArg1 dummy
+scoreboard objectives add Creeperbox.CmdArg2 dummy

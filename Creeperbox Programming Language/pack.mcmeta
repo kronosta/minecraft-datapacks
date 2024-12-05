@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 10,
-        "description": "A stack-based survival-friendly programming language inside minecraft."
+        "pack_format": 61,
+        "description": "A stack-based survival-friendly Befunge-like programming language inside minecraft."
     }
 }
